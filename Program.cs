@@ -4,6 +4,8 @@
 //We are creating an application to see if the first number would be >,<, or = to 
 //the second number 
 //We will be utilizing the 'if else' statement & converting string ---> integer technique 
+//need to update with #datavalidation and #whileLoop 
+//Peer Review: Unable to secure a peer review (no one available)
 
 Console.Clear();
 
