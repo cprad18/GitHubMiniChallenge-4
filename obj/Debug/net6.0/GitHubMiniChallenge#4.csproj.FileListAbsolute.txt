@@ -1,0 +1,15 @@
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/bin/Debug/net6.0/GitHubMiniChallenge#4
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/bin/Debug/net6.0/GitHubMiniChallenge#4.deps.json
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/bin/Debug/net6.0/GitHubMiniChallenge#4.runtimeconfig.json
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/bin/Debug/net6.0/GitHubMiniChallenge#4.dll
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/bin/Debug/net6.0/GitHubMiniChallenge#4.pdb
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.csproj.AssemblyReference.cache
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.AssemblyInfoInputs.cache
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.AssemblyInfo.cs
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.dll
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/refint/GitHubMiniChallenge#4.dll
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.pdb
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/GitHubMiniChallenge#4.genruntimeconfig.cache
+/Users/angelmanz/Documents/Level1/GitHubMiniChallenge#4/obj/Debug/net6.0/ref/GitHubMiniChallenge#4.dll
